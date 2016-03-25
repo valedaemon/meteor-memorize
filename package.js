@@ -2,7 +2,7 @@ Package.describe({
   name: 'valedaemon:memorize',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'A memory cache for Meteor',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/valedaemon/meteor-memorize',
   // By default, Meteor will default to using README.md for documentation.
